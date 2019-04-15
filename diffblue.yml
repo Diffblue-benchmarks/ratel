@@ -140,4 +140,15 @@ units:
       file: org/nico/ratel/landlords/enums/PokerLevel.class
       sourceDir: landlords-common/src/main/java
       sourceFile: org/nico/ratel/landlords/enums/PokerLevel.java
-
+  # Target Coverage: Unknown %
+  - target:
+    - dir: landlords-common/target/classes
+      file: org/nico/ratel/landlords/print/SimpleWriter.class
+      sourceDir: landlords-common/src/main/java
+      sourceFile: org/nico/ratel/landlords/print/SimpleWriter.java
+  # Target Coverage: Unknown %
+  - target:
+    - dir: landlords-common/target/classes
+      file: org/nico/ratel/landlords/transfer/ByteKit.class
+      sourceDir: landlords-common/src/main/java
+      sourceFile: org/nico/ratel/landlords/transfer/ByteKit.java
